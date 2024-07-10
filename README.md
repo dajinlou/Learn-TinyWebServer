@@ -2,9 +2,12 @@
 复现TinyWebServer(https://github.com/qinguoyi/TinyWebServer)
 
 环境(版本不一致没什么事情，前提要有下面的配置)
-ubuntu: 16.04
-CMake: 3.5
-MySql: 8.0
+
+
+- ubuntu: 16.04
+- CMake: 3.5
+- MySql: 8.0
+
 
 准备工作
 1 创建一个数据库
