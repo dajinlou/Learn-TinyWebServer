@@ -1,0 +1,176 @@
+2024-07-10 10:54:44.938938 [info]: timer tick
+2024-07-10 10:54:49.940098 [info]: timer tick
+2024-07-10 10:54:54.953193 [info]: timer tick
+2024-07-10 10:54:57.050858 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:54:57.050890 [info]: adjust timer once
+2024-07-10 10:54:57.050898 [info]: GET / HTTP/1.1
+2024-07-10 10:54:57.050946 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:54:57.050952 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.050956 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.050962 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.050979 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.050983 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.050988 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.050991 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.050994 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.050998 [info]: Connection: keep-alive
+2024-07-10 10:54:57.051001 [info]: 
+2024-07-10 10:54:57.051628 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:54:57.051646 [info]: adjust timer once
+2024-07-10 10:54:57.051653 [info]: GET / HTTP/1.1
+2024-07-10 10:54:57.051711 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:54:57.051718 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.051721 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.051725 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.051728 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.051732 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.051735 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.051739 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.051742 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.051745 [info]: Connection: keep-alive
+2024-07-10 10:54:57.051748 [info]: 
+2024-07-10 10:54:57.052060 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:54:57.052074 [info]: adjust timer once
+2024-07-10 10:54:57.052080 [info]: GET / HTTP/1.1
+2024-07-10 10:54:57.052109 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:54:57.052127 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.052132 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.052136 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.052139 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.052143 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.052146 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.052149 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.052153 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.052156 [info]: Connection: keep-alive
+2024-07-10 10:54:57.052159 [info]: 
+2024-07-10 10:54:57.052414 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:54:57.052426 [info]: adjust timer once
+2024-07-10 10:54:57.052432 [info]: GET / HTTP/1.1
+2024-07-10 10:54:57.052461 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:54:57.052478 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.052482 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.052485 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.052494 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.052498 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.052501 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.052505 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.052508 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.052511 [info]: Connection: keep-alive
+2024-07-10 10:54:57.052514 [info]: 
+2024-07-10 10:54:57.052773 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:54:57.052786 [info]: adjust timer once
+2024-07-10 10:54:57.052793 [info]: GET / HTTP/1.1
+2024-07-10 10:54:57.052820 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:54:57.052837 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.052841 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.052845 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.052848 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.052852 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.052855 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.052858 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.052861 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.052865 [info]: Connection: keep-alive
+2024-07-10 10:54:57.052868 [info]: 
+2024-07-10 10:54:57.053413 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:54:57.053429 [info]: adjust timer once
+2024-07-10 10:54:57.053435 [info]: GET / HTTP/1.1
+2024-07-10 10:54:57.053464 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:54:57.053481 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.053486 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:54:57.053490 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.053493 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:54:57.053496 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.053500 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:54:57.053503 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.053506 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:54:57.053510 [info]: Connection: keep-alive
+2024-07-10 10:54:57.053513 [info]: 
+2024-07-10 10:54:59.954754 [info]: timer tick
+2024-07-10 10:55:04.959884 [info]: timer tick
+2024-07-10 10:55:09.962536 [info]: timer tick
+2024-07-10 10:55:14.067831 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:55:14.067874 [info]: adjust timer once
+2024-07-10 10:55:14.067883 [info]: GET / HTTP/1.1
+2024-07-10 10:55:14.067920 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:55:14.067924 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.067928 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.067932 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.067936 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.067939 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.067943 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.067946 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.067950 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.067954 [info]: Connection: keep-alive
+2024-07-10 10:55:14.067957 [info]: 
+2024-07-10 10:55:14.068338 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:55:14.068358 [info]: adjust timer once
+2024-07-10 10:55:14.068366 [info]: GET / HTTP/1.1
+2024-07-10 10:55:14.068386 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:55:14.068391 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.068394 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.068398 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.068402 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.068406 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.068409 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.068413 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.068416 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.068420 [info]: Connection: keep-alive
+2024-07-10 10:55:14.068423 [info]: 
+2024-07-10 10:55:14.068697 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:55:14.068709 [info]: adjust timer once
+2024-07-10 10:55:14.068715 [info]: GET / HTTP/1.1
+2024-07-10 10:55:14.068724 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:55:14.068728 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.068732 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.068736 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.068740 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.068743 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.068747 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.068750 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.068754 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.068757 [info]: Connection: keep-alive
+2024-07-10 10:55:14.068761 [info]: 
+2024-07-10 10:55:14.069020 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:55:14.069031 [info]: adjust timer once
+2024-07-10 10:55:14.069037 [info]: GET / HTTP/1.1
+2024-07-10 10:55:14.069047 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:55:14.069050 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.069054 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.069058 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.069061 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.069065 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.069069 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.069072 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.069076 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.069079 [info]: Connection: keep-alive
+2024-07-10 10:55:14.069082 [info]: 
+2024-07-10 10:55:14.069321 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:55:14.069332 [info]: adjust timer once
+2024-07-10 10:55:14.069340 [info]: GET / HTTP/1.1
+2024-07-10 10:55:14.069349 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:55:14.069353 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.069357 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.069361 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.069364 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.069368 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.069375 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.069379 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.069382 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.069386 [info]: Connection: keep-alive
+2024-07-10 10:55:14.069389 [info]: 
+2024-07-10 10:55:14.069741 [info]: deal with the client(127.0.0.1)
+2024-07-10 10:55:14.069755 [info]: adjust timer once
+2024-07-10 10:55:14.069761 [info]: GET / HTTP/1.1
+2024-07-10 10:55:14.069770 [info]: Host: 127.0.0.1:9527
+2024-07-10 10:55:14.069774 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.069778 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+2024-07-10 10:55:14.069782 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.069785 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2024-07-10 10:55:14.069789 [info]: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.069792 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2024-07-10 10:55:14.069796 [info]: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.069799 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-07-10 10:55:14.069803 [info]: Connection: keep-alive
+2024-07-10 10:55:14.069806 [info]: 
+2024-07-10 10:55:14.964549 [info]: timer tick
+2024-07-10 10:57:34.642542 [info]: timer tick
